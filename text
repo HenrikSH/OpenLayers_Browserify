@@ -1,0 +1,1 @@
+This 'app' doesn't include the node_nodules folder even it was build directly from the ol-browserify github sample.
